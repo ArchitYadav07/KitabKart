@@ -1,0 +1,11 @@
+# Virtual Env
+env/
+venv/
+*venv/
+
+# Django stuff:
+__pycache__/
+*__pycache__/
+# Local data / secrets
+data.json
+.env
